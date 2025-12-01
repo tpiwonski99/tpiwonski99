@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**tpiwonski99/tpiwonski99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Tymoteusz**, a Robotics Engineer and Student based in Warsaw, Poland.
 
-Here are some ideas to get you started:
+I bring robots to life using code and electronics. If it moves—whether on wheels or four legs—I probably want to program it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is **C++**, **Python**, and **ROS 2**. I spend most of my time working with **Linux**, simulating robotic worlds in **O3DE** & **Isaac Lab**, and tinkering with embedded hardware like **Raspberry Pi** & **ESP32**.
+
+I'm currently a Junior Robotics Engineer at **Smarttech3D** and an active member of the **Student Robotics Association (KNR)**.
+
+I've worked on various systems, but my favorite projects are the **Meldog** (a quadruped robot where I built custom pressure sensors) and **Vaporeware** (an interactive art installation powered by neural networks).
+
+**Fun Facts:**
+
+* 🤖 I was an extra in a TV commercial for the Ministry of Education (pretending to build robots, which I actually do!).
+* 🌍 I was an exchange student in Malta and the UK.
+* 🖨️ I love 3D printing and designing mechanical parts in CAD.
+* **Hobbies:** Robotics, electronics, and travel.
+
+[**Get in touch**](mailto:tymoteuszpiwonski@gmail.com)
